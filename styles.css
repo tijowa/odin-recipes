@@ -1,0 +1,23 @@
+body {
+  background-color: gray;
+  color: cornsilk;;
+}
+
+.title {
+  font-size: 2em;
+  padding: 0.5em;
+  margin-left: 0.5em;
+  font-family: Garamond, serif;
+}
+
+.topnav {
+  background-color: #006600;
+  display: flex;
+  width: 80%;
+  border-radius: 0.5em;
+}
+
+.topnav li {
+  list-style-type: none;
+  padding: 0.5em 2em;
+}
